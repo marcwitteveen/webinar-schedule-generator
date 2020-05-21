@@ -1,0 +1,22 @@
+{
+    "name": "marcwitteveen/webinar-schedule-generator",
+    "description": "Create a webinar schedule with disappearing times and dates based upon a playour callander.",
+    "keywords": ["webinar","schedule"],
+    "homepage": "https://github.com/marcwitteveen/webinar-schedule-generator/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marc Witteveen",
+            "email": "marc.witteveen@gmail.com",
+            "homepage": "https://marcwitteveen.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MarcWitteveen\\WebinarSchedule\\": "src"
+        }
+    }
+}
