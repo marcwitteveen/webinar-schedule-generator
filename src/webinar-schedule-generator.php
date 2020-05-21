@@ -1,8 +1,16 @@
 <?php
 
+/**
+ * This file is part of the WebinarSchedule package.
+ * 
+ * (c) Marc Witteveen <marc.witteveen@gmail.com>
+ * 
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
 namespace MarcWitteveen\WebinarSchedule;
 
-<?php
 /**
  * Webinar - Class that creates a uniform date and time schedule for either
  * an evergreen or scheduled webinar
