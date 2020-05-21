@@ -11,6 +11,10 @@
 
 namespace MarcWitteveen\WebinarSchedule;
 
+use DateTime;
+use DateTimeZone;
+use DateInterval;
+
 /**
  * Webinar - Class that creates a uniform date and time schedule for either
  * an evergreen or scheduled webinar
